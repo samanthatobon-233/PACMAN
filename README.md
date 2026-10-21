@@ -13,22 +13,22 @@
 
 </div>
 
-## 👩‍💻 Autora
+##  Autora
 
 **Samantha Tobón**
 [![GitHub](https://img.shields.io/badge/GitHub-samanthatobon--233-181717?style=flat-square&logo=github)](https://github.com/samanthatobon-233)
 
-## 📖 Descripción
+## Descripción
 
 Versión del clásico juego **Pac-Man** programada en **C#**.
 Proyecto académico en el que se practican clases, objetos y lógica de juego.
 
-## 🛠️ Requisitos
+##  Requisitos
 
-- 💻 Visual Studio 2022 (o superior) con la carga de trabajo de .NET
-- 📦 .NET Framework (según la versión indicada en `App.config`)
+-  Visual Studio 2022 (o superior) con la carga de trabajo de .NET
+-  .NET Framework (según la versión indicada en `App.config`)
 
-## 🚀 Cómo ejecutar
+##  Cómo ejecutar
 
 1. Clona el repositorio:
 
